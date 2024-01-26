@@ -46,9 +46,9 @@ from hashlib import sha256
 from pathlib import PurePath, Path
 
 # The primary host; this will fail if we can't retrieve files from here.
-HOST1 = "https://bellscoincore.org"
-HOST2 = "https://bellscoin.org"
-VERSIONPREFIX = "bellscoin-core-"
+HOST1 = "https://bitcoinncore.org"
+HOST2 = "https://bitcoin.org"
+VERSIONPREFIX = "bitcoin-core-"
 SUMS_FILENAME = 'SHA256SUMS'
 SIGNATUREFILENAME = f"{SUMS_FILENAME}.asc"
 

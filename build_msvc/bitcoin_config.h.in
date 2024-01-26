@@ -113,16 +113,16 @@
 #define HAVE_DLLEXPORT_ATTRIBUTE 1
 
 /* Define to the address where bug reports for this package should be sent. */
-#define PACKAGE_BUGREPORT "https://github.com/bellscoin/bellscoin/issues"
+#define PACKAGE_BUGREPORT "https://github.com/bitcoin/bitcoin/issues"
 
 /* Define to the full name of this package. */
-#define PACKAGE_NAME "bellscoin Core"
+#define PACKAGE_NAME "Bitcoin Core"
 
 /* Define to the full name and version of this package. */
 #define PACKAGE_STRING $
 
 /* Define to the home page for this package. */
-#define PACKAGE_URL "https://bellscoincore.org/"
+#define PACKAGE_URL "https://bitcoincore.org/"
 
 /* Define to the version of this package. */
 #define PACKAGE_VERSION $
